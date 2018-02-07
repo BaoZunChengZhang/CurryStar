@@ -1,2 +1,2 @@
 # CurryStar
-play,hahaha
+play,hahahaha
